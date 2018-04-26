@@ -1,2 +1,2 @@
 # ago-new-tab
-ArcGIS Online map Chrome new tab extension using the ArcGIS JavaScript API.
+ArcGIS Online map Chrome new tab extension using the ArcGIS JavaScript API version 4.

@@ -1,0 +1,11 @@
+{
+  "name": "ArcGIS Online New Tab",
+  "short_name": "ago-new-tab",
+  "version": "0.1",
+  "description": "ArcGIS Online map Chrome new tab extension using the ArcGIS JavaScript API.",
+  "chrome_url_overrides": {
+    "newtab": "tab.html"
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval' https://js.arcgis.com; object-src 'self'",
+  "manifest_version": 2
+}
